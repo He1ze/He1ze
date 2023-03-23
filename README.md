@@ -1,3 +1,3 @@
  ### 👋🔰 Hi, I’m @He1ze
 
-- Lua, Python, C#, Java
+- I like computers 🤷‍♂️
